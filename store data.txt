@@ -1,0 +1,7 @@
+#include<reg.51>
+void main()
+{
+Acc=0x30;
+}
+
+
